@@ -8,3 +8,5 @@ The function allows users to visualize and analyze detected objects in the lapto
 ![bottle object detection](https://github.com/anushamahajan/Drone-Object-Detection/assets/116106599/4712e99e-cffa-4da7-884e-9b48544b81d3)\
 ![CUP object detection](https://github.com/anushamahajan/Drone-Object-Detection/assets/116106599/06fee9cc-2d96-41c9-bb14-62555cb672d3)\
 ![person,cell phone object detection](https://github.com/anushamahajan/Drone-Object-Detection/assets/116106599/5c1cc3a4-67a0-4009-a540-c772167481db)
+
+The number in the output displays the accuracy of object detection i.e. how accurately it guesses the object.
